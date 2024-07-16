@@ -1,0 +1,14 @@
+liczba: 2147483647 jest pierwsza
+liczba: 2147483647 jest pierwsza
+liczba: 3456537, dzielnik: 3, dzielnik: 7, dzielnik: 19, dzielnik: 21, dzielnik: 57, dzielnik: 133, dzielnik: 399, dzielnik: 8663, dzielnik: 25989, dzielnik: 60641, dzielnik: 164597, dzielnik: 181923, dzielnik: 493791, dzielnik: 1152179
+liczba: 32437, dzielnik: 163, dzielnik: 199
+liczba: 23423, dzielnik: 59, dzielnik: 397
+liczba: 23 jest pierwsza
+liczba: 23 jest pierwsza
+liczba: 0
+liczba: 1
+liczba: 243243, dzielnik: 3, dzielnik: 7, dzielnik: 9, dzielnik: 11, dzielnik: 13, dzielnik: 21, dzielnik: 27, dzielnik: 33, dzielnik: 39, dzielnik: 63, dzielnik: 77, dzielnik: 81, dzielnik: 91, dzielnik: 99, dzielnik: 117, dzielnik: 143, dzielnik: 189, dzielnik: 231, dzielnik: 243, dzielnik: 273, dzielnik: 297, dzielnik: 351, dzielnik: 429, dzielnik: 567, dzielnik: 693, dzielnik: 819, dzielnik: 891, dzielnik: 1001, dzielnik: 1053, dzielnik: 1287, dzielnik: 1701, dzielnik: 2079, dzielnik: 2457, dzielnik: 2673, dzielnik: 3003, dzielnik: 3159, dzielnik: 3861, dzielnik: 6237, dzielnik: 7371, dzielnik: 9009, dzielnik: 11583, dzielnik: 18711, dzielnik: 22113, dzielnik: 27027, dzielnik: 34749, dzielnik: 81081
+liczba: 234532652, dzielnik: 2, dzielnik: 4, dzielnik: 58633163, dzielnik: 117266326
+liczba: 423452, dzielnik: 2, dzielnik: 4, dzielnik: 105863, dzielnik: 211726
+liczba: 23 jest pierwsza
+liczba: 2452, dzielnik: 2, dzielnik: 4, dzielnik: 613, dzielnik: 1226
